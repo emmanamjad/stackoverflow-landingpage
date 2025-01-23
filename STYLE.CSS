@@ -1,0 +1,170 @@
+#navbar{
+    width: 100%; /* This will make it flexible */
+    max-width: 1100px; 
+    /* width: 1100px; */
+    height:70px;
+    text-align:justify;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.btn{
+    color: rgb(34, 20, 219);
+    background-color:rgb(206, 206, 235);
+    position: relative;
+left: 730px; 
+bottom: 40px;  
+width: 70px;
+height: 30px; 
+border: none;
+
+    
+}
+.bts{
+    color: white;
+    background-color:blue;
+    position: relative;
+left: 730px; 
+bottom: 40px;   
+width: 70px;
+height: 30px; 
+border:none;
+
+    
+}
+#navbar a{text-decoration: none;
+}
+
+
+.log{
+    color: black;
+    font-size: x-large;
+    position: relative;
+    left:1px;
+}
+
+
+
+.logo{color: black;
+position: relative;
+right:90px ;
+/* padding-left: 150px; */
+font-size: x-large;
+left:50px;
+
+}
+
+
+
+.color{
+    color: gray;
+    padding-left: 80px;
+    position: relative;
+    right:220px;
+}
+
+.colora{
+    color: gray;
+    padding-left: 80px;
+    position: relative;
+    right:349px;
+}
+
+.colori{   color: gray;
+    padding-left: 80px;
+    position: relative;
+  right:140px;
+}
+.colors{
+    color:white;
+    background-color: rgb(243, 101, 49);
+    height: 35px;
+    border-radius:20px;
+    width: 100px;
+    border: none;
+    font-size: 16px;
+    position: relative;
+ right:40px;
+    bottom: 3px;
+
+}
+.lol{
+    width: 400px;
+    height: 30px;
+    position: relative;
+    left: 700px;
+ border:1px solid gray;
+ bottom: 40px;
+}
+.fa-solid{
+    position: relative;
+    left: 120px;
+}
+.fa-brands{
+    position: relative;
+    left:90px;
+    bottom: 5px;
+}
+.fa-lg{
+    position: relative;
+    z-index: 3;
+    left: -370px;
+bottom: 6px;    
+}
+
+.mol{
+    width:121%;
+    height: 500px;
+    position: relative;
+    bottom: 29px;
+    
+}
+.dod{
+    position: relative;
+    bottom: 220px;
+    left: 190px;
+    font-size: 50px;
+    font-family:'Courier New', Courier, monospace;
+    word-spacing: -8px;
+}
+.jol{
+    position: relative;
+    bottom: 440px;
+    left: 500px;
+}
+.nol{
+    position: relative;
+    bottom: 469px;
+    left: 511px;
+}
+.bol{
+    position: relative;
+    bottom: 480px;
+    left: 528px;
+   
+}
+.btr{
+    position: relative;
+    bottom: 440px;
+    left: 560px;
+    background-color: white;
+    color: orange;
+    border: none;
+    height: 50px;
+    width: 110px;
+}
+.bte{
+    position: relative;
+    bottom: 440px;
+    left: 560px;
+    background-color:orange;
+    color: white;
+    border: none;
+    height: 50px;
+    width: 110px;
+}
+.vol{
+    position: relative;
+    bottom: 330px;
+    font-family:serif;
+    left: 480px;
+    font-size:30px;}
